@@ -1,0 +1,5 @@
+{
+    "appHost": {
+        "path": "AdventureWorksApp.AppHost\\AdventureWorksApp.AppHost.csproj"
+    }
+}
